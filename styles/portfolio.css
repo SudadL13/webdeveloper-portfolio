@@ -24,6 +24,8 @@ nav{
     line-height: 30px;
     text-align: center;
     padding-bottom: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
     }
 
 .nav-title{
@@ -98,3 +100,28 @@ nav a{
     background-color: #FFF8F3;
     margin: 151px 209px;
 }
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.no{
+    text-align: center;
+    color: #757575;
+    font-size: 20px;
+
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 2px;
+
+}
+.yes{
+    color: #474747;
+    font-size: 20px;
+    margin-top: 0;
+    font-weight: 700;
+    line-height: 30px;
+}
+/* main{
+    max-width: 1140px;
+} */
